@@ -1,0 +1,17 @@
+fsl_pca9420.c:27:6:PCA9420_GetDefaultConfig	0	static
+fsl_pca9420.c:107:6:PCA9420_GetDefaultModeConfig	0	static
+fsl_pca9420.c:132:6:PCA9420_GetRegulatorVolt	0	static
+fsl_pca9420.c:405:6:PCA9420_WriteRegs	16	static
+fsl_pca9420.c:72:6:PCA9420_Init	24	static
+fsl_pca9420.c:195:6:PCA9420_WriteModeConfigs	48	static
+fsl_pca9420.c:398:6:PCA9420_FeedWatchDog	16	static
+fsl_pca9420.c:414:6:PCA9420_ReadRegs	16	static
+fsl_pca9420.c:246:6:PCA9420_ReadModeConfigs	32	static
+fsl_pca9420.c:355:6:PCA9420_GetCurrentMode	24	static
+fsl_pca9420.c:383:9:PCA9420_GetRegulatorStatus	16	static
+fsl_pca9420.c:423:6:PCA9420_ModifyReg	32	static
+fsl_pca9420.c:341:6:PCA9420_SwitchMode	16	static
+fsl_pca9420.c:445:6:PCA9420_EnableInterrupts	24	static
+fsl_pca9420.c:472:6:PCA9420_DisableInterrupts	24	static
+fsl_pca9420.c:499:10:PCA9420_GetInterruptStatus	16	static
+fsl_pca9420.c:516:6:PCA9420_ClearInterruptStatus	24	static

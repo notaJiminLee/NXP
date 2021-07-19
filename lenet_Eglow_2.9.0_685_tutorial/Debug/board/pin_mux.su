@@ -1,0 +1,4 @@
+fsl_clock.h:839:20:CLOCK_EnableClock	24	static
+fsl_iopctl.h:88:22:IOPCTL_PinMuxSet	24	static
+pin_mux.c:38:6:BOARD_InitBootPins	8	static
+pin_mux.c:95:6:BOARD_InitPins	80	static

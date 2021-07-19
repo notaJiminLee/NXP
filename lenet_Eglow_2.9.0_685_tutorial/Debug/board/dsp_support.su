@@ -1,0 +1,2 @@
+fsl_dsp.h:77:20:DSP_Start	4	static
+dsp_support.c:27:6:BOARD_DSP_Init	32	static

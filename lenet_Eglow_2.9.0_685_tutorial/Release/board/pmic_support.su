@@ -1,0 +1,6 @@
+pmic_support.c:46:17:BOARD_CalcVoltLevel	8	static
+pmic_support.c:71:6:BOARD_InitPmic	40	static
+pmic_support.c:83:6:BOARD_SetPmicVoltageForFreq	32	static
+pmic_support.c:153:6:BOARD_SetPmicVoltageBeforeDeepSleep	16	static
+pmic_support.c:172:6:BOARD_RestorePmicVoltageAfterDeepSleep	16	static
+pmic_support.c:187:6:BOARD_SetPmicVoltageBeforeDeepPowerDown	16	static
