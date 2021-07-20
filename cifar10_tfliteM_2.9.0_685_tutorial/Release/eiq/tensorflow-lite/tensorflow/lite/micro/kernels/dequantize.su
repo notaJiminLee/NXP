@@ -1,0 +1,8 @@
+dequantize.cc:38:7:void* tflite::ops::micro::dequantize::Init(TfLiteContext*, const char*, size_t)	16	static
+dequantize.cc:48:14:TfLiteStatus tflite::ops::micro::dequantize::Prepare(TfLiteContext*, TfLiteNode*)	48	static
+types.h:178:3:tflite::RuntimeShape::~RuntimeShape()	8	static
+types.h:265:14:int tflite::RuntimeShape::FlatSize() const	8	static
+common.h:153:14:int32 tflite::MultiplyByQuantizedMultiplier(int32, int32, int)	16	static
+tensor_ctypes.h:34:21:tflite::RuntimeShape tflite::GetTensorShape(const TfLiteTensor*)	16	static
+dequantize.cc:75:14:TfLiteStatus tflite::ops::micro::dequantize::Eval(TfLiteContext*, TfLiteNode*)	96	static
+dequantize.cc:144:21:TfLiteRegistration* tflite::ops::micro::Register_DEQUANTIZE()	0	static

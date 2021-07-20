@@ -1,0 +1,9 @@
+activations.cc:80:14:TfLiteStatus tflite::ops::micro::activations::ReluPrepare(TfLiteContext*, TfLiteNode*)	0	static
+activations.cc:117:14:TfLiteStatus tflite::ops::micro::activations::Relu6Prepare(TfLiteContext*, TfLiteNode*)	0	static
+types.h:178:3:tflite::RuntimeShape::~RuntimeShape()	8	static
+types.h:265:14:int tflite::RuntimeShape::FlatSize() const	8	static
+tensor_ctypes.h:34:21:tflite::RuntimeShape tflite::GetTensorShape(const TfLiteTensor*)	16	static
+activations.cc:84:14:TfLiteStatus tflite::ops::micro::activations::ReluEval(TfLiteContext*, TfLiteNode*)	64	static
+activations.cc:121:14:TfLiteStatus tflite::ops::micro::activations::Relu6Eval(TfLiteContext*, TfLiteNode*)	72	static
+activations.cc:160:21:TfLiteRegistration* tflite::ops::micro::Register_RELU()	0	static
+activations.cc:172:21:TfLiteRegistration* tflite::ops::micro::Register_RELU6()	0	static

@@ -1,0 +1,9 @@
+pin_mux.c:60:6:BOARD_InitPins	0	static
+pin_mux.c:85:6:BOARD_InitDEBUG_UARTPins	0	static
+pin_mux.c:37:6:BOARD_InitBootPins	0	static
+pin_mux.c:168:6:BOARD_InitFlexSPIFlashPins	0	static
+pin_mux.c:419:6:BOARD_InitPSRAMPins	0	static
+pin_mux.c:687:6:BOARD_InitUSDHC0Pins	0	static
+pin_mux.c:882:6:BOARD_InitLEDsPins	24	static
+pin_mux.c:995:6:BOARD_InitBUTTONsPins	24	static
+pin_mux.c:1086:6:BOARD_InitACCELPins	16	static

@@ -1,0 +1,7 @@
+board.c:47:6:BOARD_InitDebugConsole	16	static
+board.c:60:17:flexspi_hyper_ram_write_mcr.constprop	24	static
+board.c:289:6:BOARD_DeinitXip	0	static
+board.c:299:6:BOARD_InitXip	8	static
+board.c:361:6:BOARD_SetFlexspiClock	16	static
+board.c:124:10:BOARD_InitPsRam	424	static
+board.c:390:6:BOARD_FlexspiClockSafeConfig	0	static
