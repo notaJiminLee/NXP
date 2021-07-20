@@ -1,0 +1,5 @@
+core_cm7.h:2032:22:__NVIC_SetPriority	16	static
+core_cm7.h:2618:26:SysTick_Config	16	static
+timer.c:12:6:SysTick_Handler	4	static
+timer.c:16:6:init_timer	8	static
+timer.c:20:5:get_time_in_us	16	static
