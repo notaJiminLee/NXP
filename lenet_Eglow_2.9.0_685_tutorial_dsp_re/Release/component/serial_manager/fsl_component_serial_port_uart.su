@@ -1,0 +1,11 @@
+fsl_component_serial_port_uart.c:106:13:Serial_UartCallback	24	static
+fsl_component_serial_port_uart.c:159:25:Serial_UartInit	16	static
+fsl_component_serial_port_uart.c:209:25:Serial_UartDeinit	8	static
+fsl_component_serial_port_uart.c:236:25:Serial_UartWrite	24	static
+fsl_component_serial_port_uart.c:280:25:Serial_UartWriteBlocking	0	static
+fsl_component_serial_port_uart.c:341:25:Serial_UartCancelWrite	24	static
+fsl_component_serial_port_uart.c:374:25:Serial_UartInstallTxCallback	0	static
+fsl_component_serial_port_uart.c:390:25:Serial_UartInstallRxCallback	0	static
+fsl_component_serial_port_uart.c:406:6:Serial_UartIsrFunction	0	static
+fsl_component_serial_port_uart.c:418:25:Serial_UartEnterLowpower	8	static
+fsl_component_serial_port_uart.c:434:25:Serial_UartExitLowpower	8	static

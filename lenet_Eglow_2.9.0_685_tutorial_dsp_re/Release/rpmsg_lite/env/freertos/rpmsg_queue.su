@@ -1,0 +1,7 @@
+rpmsg_queue.c:42:9:rpmsg_queue_rx_cb	24	static
+rpmsg_queue.c:62:20:rpmsg_queue_create	16	static
+rpmsg_queue.c:82:9:rpmsg_queue_destroy	8	static
+rpmsg_queue.c:97:9:rpmsg_queue_recv	40	static
+rpmsg_queue.c:151:9:rpmsg_queue_recv_nocopy	40	static
+rpmsg_queue.c:193:9:rpmsg_queue_nocopy_free	8	static
+rpmsg_queue.c:208:9:rpmsg_queue_get_current_size	0	static

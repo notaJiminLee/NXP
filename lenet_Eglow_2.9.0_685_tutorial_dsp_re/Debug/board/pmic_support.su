@@ -1,0 +1,7 @@
+fsl_power.h:408:32:POWER_GetBodyBiasMode	24	static
+pmic_support.c:46:17:BOARD_CalcVoltLevel	32	static
+pmic_support.c:71:6:BOARD_InitPmic	40	static
+pmic_support.c:83:6:BOARD_SetPmicVoltageForFreq	48	static
+pmic_support.c:153:6:BOARD_SetPmicVoltageBeforeDeepSleep	8	static
+pmic_support.c:172:6:BOARD_RestorePmicVoltageAfterDeepSleep	8	static
+pmic_support.c:187:6:BOARD_SetPmicVoltageBeforeDeepPowerDown	8	static

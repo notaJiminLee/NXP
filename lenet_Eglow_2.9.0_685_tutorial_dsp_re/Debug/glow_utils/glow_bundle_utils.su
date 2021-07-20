@@ -1,0 +1,3 @@
+math.h:187:14:expf	16	static
+glow_bundle_utils.c:24:7:alignedAlloc	32	static
+glow_bundle_utils.c:48:6:alignedFree	24	static

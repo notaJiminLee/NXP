@@ -1,0 +1,14 @@
+fsl_clock.h:839:20:CLOCK_EnableClock	24	static
+fsl_cache.c:46:10:CACHE64_GetInstance	24	static
+fsl_cache.c:68:10:CACHE64_GetInstanceByAddr	24	static
+fsl_cache.c:93:10:CACHE64_Init	32	static
+fsl_cache.c:131:6:CACHE64_GetDefaultConfig	16	static
+fsl_cache.c:143:6:CACHE64_EnableCache	16	static
+fsl_cache.c:156:6:CACHE64_DisableCache	16	static
+fsl_cache.c:169:6:CACHE64_InvalidateCache	16	static
+fsl_cache.c:193:6:CACHE64_InvalidateCacheByRange	40	static
+fsl_cache.c:232:6:CACHE64_CleanCache	16	static
+fsl_cache.c:256:6:CACHE64_CleanCacheByRange	40	static
+fsl_cache.c:295:6:CACHE64_CleanInvalidateCache	16	static
+fsl_cache.c:321:6:CACHE64_CleanInvalidateCacheByRange	40	static
+fsl_cache.c:360:6:CACHE64_EnableWriteBuffer	16	static
