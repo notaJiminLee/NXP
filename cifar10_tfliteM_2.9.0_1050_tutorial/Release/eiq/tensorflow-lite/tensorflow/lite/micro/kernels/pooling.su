@@ -1,0 +1,5 @@
+pooling.cc:37:14:TfLiteStatus tflite::ops::micro::pooling::{anonymous}::CalculateOpData(const TfLiteContext*, const TfLitePoolParams*, const TfLiteTensor*, const TfLiteTensor*, tflite::ops::micro::pooling::{anonymous}::OpData*)	16	static
+pooling.cc:185:14:TfLiteStatus tflite::ops::micro::pooling::MaxEval(TfLiteContext*, TfLiteNode*)	248	static
+pooling.cc:159:14:TfLiteStatus tflite::ops::micro::pooling::AverageEval(TfLiteContext*, TfLiteNode*)	320	static
+pooling.cc:212:21:TfLiteRegistration* tflite::ops::micro::Register_AVERAGE_POOL_2D()	0	static
+pooling.cc:224:21:TfLiteRegistration* tflite::ops::micro::Register_MAX_POOL_2D()	0	static

@@ -1,0 +1,8 @@
+conv.cc:110:7:void* tflite::ops::micro::conv::Init(TfLiteContext*, const char*, size_t)	16	static
+conv.cc:72:14:TfLiteStatus tflite::ops::micro::conv::CalculateOpData(TfLiteContext*, TfLiteNode*, const TfLiteConvParams*, int, int, int, int, int, int, TfLiteType, tflite::ops::micro::conv::OpData*)	88	static
+conv.cc:120:14:TfLiteStatus tflite::ops::micro::conv::Prepare(TfLiteContext*, TfLiteNode*)	104	static
+conv.cc:171:6:void tflite::ops::micro::conv::EvalQuantized(TfLiteContext*, TfLiteNode*, TfLiteConvParams*, const tflite::ops::micro::conv::OpData&, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, TfLiteTensor*, TfLiteTensor*)	336	static
+conv.cc:204:6:void tflite::ops::micro::conv::EvalQuantizedPerChannel(TfLiteContext*, TfLiteNode*, TfLiteConvParams*, const tflite::ops::micro::conv::OpData&, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, TfLiteTensor*)	296	static
+conv.cc:232:6:void tflite::ops::micro::conv::EvalFloat(TfLiteContext*, TfLiteNode*, TfLiteConvParams*, const tflite::ops::micro::conv::OpData&, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, TfLiteTensor*, TfLiteTensor*)	336	static
+conv.cc:260:14:TfLiteStatus tflite::ops::micro::conv::Eval(TfLiteContext*, TfLiteNode*)	56	static
+conv.cc:294:21:TfLiteRegistration* tflite::ops::micro::Register_CONV_2D()	0	static

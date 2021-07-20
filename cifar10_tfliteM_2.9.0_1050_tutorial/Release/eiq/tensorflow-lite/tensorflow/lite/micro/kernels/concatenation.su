@@ -1,0 +1,8 @@
+concatenation.cc:34:14:TfLiteStatus tflite::ops::micro::concatenation::Prepare(TfLiteContext*, TfLiteNode*)	40	static
+concatenation.cc:154:6:void tflite::ops::micro::concatenation::EvalQuantizedUInt8(TfLiteContext*, TfLiteNode*)	536	static
+concatenation.cc:217:21:TfLiteRegistration* tflite::ops::micro::Register_CONCATENATION()	0	static
+concatenation.cc:131:6:void tflite::ops::micro::concatenation::EvalUnquantized(TfLiteContext*, TfLiteNode*) [with data_type = float]	432	static
+concatenation.cc:131:6:void tflite::ops::micro::concatenation::EvalUnquantized(TfLiteContext*, TfLiteNode*) [with data_type = long int]	432	static
+concatenation.cc:131:6:void tflite::ops::micro::concatenation::EvalUnquantized(TfLiteContext*, TfLiteNode*) [with data_type = signed char]	432	static
+concatenation.cc:131:6:void tflite::ops::micro::concatenation::EvalUnquantized(TfLiteContext*, TfLiteNode*) [with data_type = long long int]	432	static
+concatenation.cc:185:14:TfLiteStatus tflite::ops::micro::concatenation::Eval(TfLiteContext*, TfLiteNode*)	16	static

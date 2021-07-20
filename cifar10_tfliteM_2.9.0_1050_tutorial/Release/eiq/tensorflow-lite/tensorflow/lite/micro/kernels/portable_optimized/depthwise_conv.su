@@ -1,0 +1,2 @@
+depthwise_conv.cc:434:14:TfLiteStatus tflite::ops::micro::depthwise_conv::Eval(TfLiteContext*, TfLiteNode*)	2552	static
+depthwise_conv.cc:501:21:TfLiteRegistration* tflite::ops::micro::Register_DEPTHWISE_CONV_2D()	0	static

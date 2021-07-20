@@ -1,0 +1,7 @@
+fsl_elcdif.c:102:6:ELCDIF_RgbModeInit	16	static
+fsl_elcdif.c:176:6:ELCDIF_RgbModeGetDefaultConfig	16	static
+fsl_elcdif.c:204:6:ELCDIF_RgbModeSetPixelFormat	8	static
+fsl_elcdif.c:220:6:ELCDIF_Deinit	0	static
+fsl_elcdif.c:239:6:ELCDIF_RgbModeStop	0	static
+fsl_elcdif.c:254:6:ELCDIF_Reset	0	static
+fsl_elcdif.c:348:10:ELCDIF_UpdateLut	8	static

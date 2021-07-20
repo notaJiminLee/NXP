@@ -1,0 +1,7 @@
+process_broadcast_shapes.h:38:13:bool tflite::reference_ops::ProcessBroadcastShapes(const tflite::RuntimeShape&, const tflite::RuntimeShape&, tflite::ArithmeticParams*)	104	static
+add.cc:118:14:TfLiteStatus tflite::ops::micro::add::EvalAddQuantized(TfLiteContext*, TfLiteNode*, TfLiteAddParams*, const tflite::ops::micro::add::OpData*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*)	856	static
+add.cc:57:14:TfLiteStatus tflite::ops::micro::add::CalculateOpData(TfLiteContext*, TfLiteAddParams*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, tflite::ops::micro::add::OpData*)	48	static
+add.cc:97:6:void tflite::ops::micro::add::EvalAdd(TfLiteContext*, TfLiteNode*, TfLiteAddParams*, const tflite::ops::micro::add::OpData*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*)	408	static
+add.cc:163:14:TfLiteStatus tflite::ops::micro::add::Eval(TfLiteContext*, TfLiteNode*)	136	static
+add.cc:118:14:TfLiteStatus tflite::ops::micro::add::EvalAddQuantized(TfLiteContext*, TfLiteNode*, TfLiteAddParams*, const tflite::ops::micro::add::OpData*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*)	8	static
+add.cc:190:21:TfLiteRegistration* tflite::ops::micro::Register_ADD()	0	static

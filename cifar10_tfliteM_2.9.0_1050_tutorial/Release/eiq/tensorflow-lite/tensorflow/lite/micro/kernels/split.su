@@ -1,0 +1,2 @@
+split.cc:68:14:TfLiteStatus tflite::ops::micro::split::Eval(TfLiteContext*, TfLiteNode*)	128	static
+split.cc:114:21:TfLiteRegistration* tflite::ops::micro::Register_SPLIT()	0	static

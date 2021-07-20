@@ -1,0 +1,4 @@
+timer.c:36:6:SysTick_Handler	0	static
+timer.c:41:6:TIMER_Init	16	static
+timer.c:48:5:TIMER_GetTimeInUS	8	static
+time.h:432:5:gettimeofday	16	static

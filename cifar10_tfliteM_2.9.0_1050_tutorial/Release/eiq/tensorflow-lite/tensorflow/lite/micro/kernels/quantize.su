@@ -1,0 +1,4 @@
+quantize.cc:36:7:void* tflite::ops::micro::quantize::Init(TfLiteContext*, const char*, size_t)	16	static
+quantize.cc:46:14:TfLiteStatus tflite::ops::micro::quantize::Prepare(TfLiteContext*, TfLiteNode*)	40	static
+quantize.cc:83:14:TfLiteStatus tflite::ops::micro::quantize::Eval(TfLiteContext*, TfLiteNode*)	136	static
+quantize.cc:159:21:TfLiteRegistration* tflite::ops::micro::Register_QUANTIZE()	0	static

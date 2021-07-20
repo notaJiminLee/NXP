@@ -1,0 +1,13 @@
+comparisons.h:144:40:tflite::reference_ops::BroadcastComparison4DSlowCommon tflite::reference_ops::BroadcastComparison4DSlowPreprocess(const tflite::RuntimeShape&, const tflite::RuntimeShape&, const tflite::RuntimeShape&)	136	static
+comparisons.cc:100:14:TfLiteStatus tflite::ops::micro::comparisons::{anonymous}::EqualEval(TfLiteContext*, TfLiteNode*)	448	static
+comparisons.cc:135:14:TfLiteStatus tflite::ops::micro::comparisons::{anonymous}::NotEqualEval(TfLiteContext*, TfLiteNode*)	504	static
+comparisons.cc:169:14:TfLiteStatus tflite::ops::micro::comparisons::{anonymous}::GreaterEval(TfLiteContext*, TfLiteNode*)	1104	static
+comparisons.cc:200:14:TfLiteStatus tflite::ops::micro::comparisons::{anonymous}::GreaterEqualEval(TfLiteContext*, TfLiteNode*)	1104	static
+comparisons.cc:231:14:TfLiteStatus tflite::ops::micro::comparisons::{anonymous}::LessEval(TfLiteContext*, TfLiteNode*)	816	static
+comparisons.cc:262:14:TfLiteStatus tflite::ops::micro::comparisons::{anonymous}::LessEqualEval(TfLiteContext*, TfLiteNode*)	1104	static
+comparisons.cc:296:21:TfLiteRegistration* tflite::ops::micro::Register_EQUAL()	0	static
+comparisons.cc:308:21:TfLiteRegistration* tflite::ops::micro::Register_NOT_EQUAL()	0	static
+comparisons.cc:320:21:TfLiteRegistration* tflite::ops::micro::Register_GREATER()	0	static
+comparisons.cc:332:21:TfLiteRegistration* tflite::ops::micro::Register_GREATER_EQUAL()	0	static
+comparisons.cc:344:21:TfLiteRegistration* tflite::ops::micro::Register_LESS()	0	static
+comparisons.cc:356:21:TfLiteRegistration* tflite::ops::micro::Register_LESS_EQUAL()	0	static

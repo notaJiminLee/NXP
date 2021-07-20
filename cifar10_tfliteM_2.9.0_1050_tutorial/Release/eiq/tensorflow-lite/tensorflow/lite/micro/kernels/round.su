@@ -1,0 +1,3 @@
+round.cc:30:14:TfLiteStatus tflite::ops::micro::round::Prepare(TfLiteContext*, TfLiteNode*)	40	static
+round.cc:45:14:TfLiteStatus tflite::ops::micro::round::Eval(TfLiteContext*, TfLiteNode*)	80	static
+round.cc:56:21:TfLiteRegistration* tflite::ops::micro::Register_ROUND()	0	static

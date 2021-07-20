@@ -1,0 +1,17 @@
+fsl_csi.c:834:6:CSI_TransferHandleIRQ	24	static
+fsl_csi.c:267:10:CSI_Init	16	static
+fsl_csi.c:368:6:CSI_Deinit	0	static
+fsl_csi.c:385:6:CSI_Reset	4	static
+fsl_csi.c:442:6:CSI_GetDefaultConfig	16	static
+fsl_csi.c:466:6:CSI_SetRxBufferAddr	0	static
+fsl_csi.c:486:6:CSI_ClearFifo	8	static
+fsl_csi.c:529:6:CSI_ReflashFifoDma	4	static
+fsl_csi.c:558:6:CSI_EnableFifoDmaRequest	4	static
+fsl_csi.c:588:6:CSI_EnableInterrupts	4	static
+fsl_csi.c:601:6:CSI_DisableInterrupts	8	static
+fsl_csi.c:622:10:CSI_TransferCreateHandle	24	static
+fsl_csi.c:664:10:CSI_TransferStart	4	static
+fsl_csi.c:716:10:CSI_TransferStop	8	static
+fsl_csi.c:759:10:CSI_TransferSubmitEmptyBuffer	8	static
+fsl_csi.c:791:10:CSI_TransferGetFullBuffer	8	static
+fsl_csi.c:1387:6:CSI_DriverIRQHandler	8	static

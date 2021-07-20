@@ -1,0 +1,5 @@
+logistic.cc:116:21:TfLiteRegistration* tflite::ops::micro::Register_LOGISTIC()	0	static
+fixedpoint.h:842:25:gemmlowp::FixedPoint<tRawType, 0> gemmlowp::one_over_one_plus_x_for_x_in_0_1(gemmlowp::FixedPoint<tRawType, 0>) [with tRawType = long int]	72	static
+fixedpoint.h:721:25:gemmlowp::FixedPoint<tRawType, 0> gemmlowp::exp_on_interval_between_negative_one_quarter_and_0_excl(gemmlowp::FixedPoint<tRawType, 0>) [with tRawType = long int]	64	static
+fixedpoint.h:746:25:gemmlowp::FixedPoint<tRawType, 0> gemmlowp::exp_on_negative_values(gemmlowp::FixedPoint<tRawType, tIntegerBits_a>) [with tRawType = long int; int tIntegerBits = 4]	72	static
+logistic.cc:67:14:TfLiteStatus tflite::ops::micro::activations::LogisticEval(TfLiteContext*, TfLiteNode*)	192	static

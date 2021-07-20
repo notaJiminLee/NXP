@@ -1,0 +1,3 @@
+prelu.cc:28:14:TfLiteStatus tflite::ops::micro::activations::PreluPrepare(TfLiteContext*, TfLiteNode*)	0	static
+prelu.cc:63:14:TfLiteStatus tflite::ops::micro::activations::PreluEval(TfLiteContext*, TfLiteNode*)	736	static
+prelu.cc:131:21:TfLiteRegistration* tflite::ops::micro::Register_PRELU()	0	static

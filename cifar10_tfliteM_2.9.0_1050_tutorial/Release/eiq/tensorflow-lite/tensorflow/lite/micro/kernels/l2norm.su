@@ -1,0 +1,4 @@
+l2norm.cc:36:14:TfLiteStatus tflite::ops::micro::l2norm::Prepare(TfLiteContext*, TfLiteNode*)	0	static
+l2norm.cc:71:14:TfLiteStatus tflite::ops::micro::l2norm::Eval(TfLiteContext*, TfLiteNode*)	216	static
+l2norm.cc:131:21:TfLiteRegistration* tflite::ops::micro::Register_L2NORM_REF()	0	static
+l2norm.cc:144:21:TfLiteRegistration* tflite::ops::micro::Register_L2_NORMALIZATION()	0	static

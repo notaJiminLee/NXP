@@ -1,0 +1,8 @@
+softmax.cc:75:14:TfLiteStatus tflite::ops::micro::activations::SoftmaxPrepare(TfLiteContext*, TfLiteNode*)	32	static
+softmax.cc:85:6:void tflite::ops::micro::activations::SoftmaxFloat(const TfLiteTensor*, TfLiteTensor*, const tflite::SoftmaxParams&)	120	static
+softmax.cc:139:21:TfLiteRegistration* tflite::ops::micro::Register_SOFTMAX()	0	static
+fixedpoint.h:842:25:gemmlowp::FixedPoint<tRawType, 0> gemmlowp::one_over_one_plus_x_for_x_in_0_1(gemmlowp::FixedPoint<tRawType, 0>) [with tRawType = long int]	72	static
+fixedpoint.h:721:25:gemmlowp::FixedPoint<tRawType, 0> gemmlowp::exp_on_interval_between_negative_one_quarter_and_0_excl(gemmlowp::FixedPoint<tRawType, 0>) [with tRawType = long int]	64	static
+fixedpoint.h:746:25:gemmlowp::FixedPoint<tRawType, 0> gemmlowp::exp_on_negative_values(gemmlowp::FixedPoint<tRawType, tIntegerBits_a>) [with tRawType = long int; int tIntegerBits = 5]	80	static
+softmax.cc:92:6:void tflite::ops::micro::activations::SoftmaxQuantized(const TfLiteTensor*, TfLiteTensor*, const tflite::SoftmaxParams&)	208	static
+softmax.cc:111:14:TfLiteStatus tflite::ops::micro::activations::SoftmaxEval(TfLiteContext*, TfLiteNode*)	104	static

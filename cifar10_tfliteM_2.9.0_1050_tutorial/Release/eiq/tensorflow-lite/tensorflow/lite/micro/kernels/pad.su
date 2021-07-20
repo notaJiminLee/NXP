@@ -1,0 +1,4 @@
+pad.cc:70:14:TfLiteStatus tflite::ops::micro::pad::Prepare(TfLiteContext*, TfLiteNode*)	96	static
+pad.cc:101:14:TfLiteStatus tflite::ops::micro::pad::Eval(TfLiteContext*, TfLiteNode*)	880	static
+pad.cc:210:21:TfLiteRegistration* tflite::ops::micro::Register_PAD()	0	static
+pad.cc:223:21:TfLiteRegistration* tflite::ops::micro::Register_PADV2()	0	static
